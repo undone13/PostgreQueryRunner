@@ -1,5 +1,7 @@
 # PostgreQueryRunner
 
+Fisierul de intrare se numeste mereu input.json si trebuie sa se afle in folder cu aplicatia 
+
 `{
     "appsettings": {
         "host" : "localhost",
