@@ -2,6 +2,8 @@
 
 Fisierul de intrare se numeste mereu "input.json" si trebuie sa se afle in folder cu aplicatia 
 
+Model + exemplu json
+
 `{
     "appsettings": {
         "host" : "localhost",
